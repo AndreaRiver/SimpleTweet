@@ -5,7 +5,7 @@
 Time spent: **8** hours spent in total
 
 ---
-#Simple Twitter - Part 1
+# Simple Twitter - Part 1
 
 ## User Stories
 
